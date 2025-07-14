@@ -1,1 +1,11 @@
-# how-to-connect-nextjs-with-mcp
+# Video URL- 
+
+# [GitHub Repo]
+
+([NextJs MCP Code with Payments Integration](https://github.com/proSamik/nextjs-mcp-with-payments)) 
+
+# [mcp-process.pdf excalidraw referred in pdf](https://github.com/user-attachments/files/21214972/mcp-process.pdf)
+
+# Excalidraw file
+([File](./README.md))
+
