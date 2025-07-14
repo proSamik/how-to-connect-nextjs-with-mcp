@@ -1,11 +1,8 @@
 # Video URL- 
 
-# [GitHub Repo]
+# GitHub Repo- [NextJs MCP Code with Payments Integration](https://github.com/proSamik/nextjs-mcp-with-payments)
 
-([NextJs MCP Code with Payments Integration](https://github.com/proSamik/nextjs-mcp-with-payments)) 
+# PDF- [mcp-process.pdf excalidraw referred in pdf](https://github.com/user-attachments/files/21214972/mcp-process.pdf)
 
-# [mcp-process.pdf excalidraw referred in pdf](https://github.com/user-attachments/files/21214972/mcp-process.pdf)
-
-# Excalidraw file
-([File](./README.md))
+# Excalidraw file- [File](./File.excalidraw)
 
